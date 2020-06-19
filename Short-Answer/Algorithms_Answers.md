@@ -9,5 +9,11 @@ c) O(n) We have a single operation based on input size
 
 
 ## Exercise II
+Given a building n tall how to determine when the egg did not break?? drop an egg from bottom level up until the egg breaks the previous floor is the highest the egg can be dropped without breaking
 
+Implementing a binary search would improve the efficiency by reducing the number of attempts as it halved the list. This could increase the number of broken eggs versus the prior solution but it improves in reducing the number of attempts.
+
+runtime is also better: O(logn)
+
+The runtime is O(n)
 
